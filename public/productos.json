@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Pioneer DJ DDJ-FLX6-GT",
+    "price": 850,
+    "category": "Consolas & Controllers",
+    "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=800&q=80",
+    "description": "Controlador DJ de 4 canales con jog wheels de tamaño real y acabado mate profesional."
+  },
+  {
+    "id": 2,
+    "title": "Sennheiser HD 25 DJ Edition",
+    "price": 175,
+    "category": "Auriculares",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "description": "Auriculares dinámicos cerrados estándar de la industria para monitoreo de club."
+  },
+  {
+    "id": 3,
+    "title": "VA - Dark Industrial Vault (12\" Vinyl)",
+    "price": 32,
+    "category": "Raw Techno",
+    "image": "https://images.unsplash.com/photo-1539375665275-f9de415ef9ac?auto=format&fit=crop&w=800&q=80",
+    "description": "EDICIÓN LIMITADA. Sonidos crudos, percusiones pesadas y atmósferas oscuras de 140 BPM."
+  },
+  {
+    "id": 4,
+    "title": "Groove Society EP (12\" Vinyl)",
+    "price": 28,
+    "category": "Tech House",
+    "image": "https://images.unsplash.com/photo-1603048588665-791ca8aea617?auto=format&fit=crop&w=800&q=80",
+    "description": "Líneas de bajo infladas y vocales pegadizas pensadas para la pista de baile."
+  },
+  {
+    "id": 5,
+    "title": "Chicago Classic Soul (12\" Vinyl)",
+    "price": 30,
+    "category": "House",
+    "image": "https://images.unsplash.com/photo-1542208998-f6dbbb27a72f?auto=format&fit=crop&w=800&q=80",
+    "description": "Pura vibración analógica con teclados Rhodes y ritmos 909 tradicionales."
+  },
+  {
+    "id": 6,
+    "title": "Astral Projections (12\" Double Vinyl)",
+    "price": 35,
+    "category": "Psytrance",
+    "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80",
+    "description": "Secuencias psicodélicas a gran velocidad y bajos hiperdinámicos."
+  },
+  {
+    "id": 7,
+    "title": "Mind Odysseys EP (12\" Vinyl)",
+    "price": 29,
+    "category": "Progressive",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80",
+    "description": "Viaje melódico de synth pads envolventes y progresión atmosférica."
+  },
+  {
+    "id": 8,
+    "title": "Allen & Heath Xone:96 Analog Mixer",
+    "price": 2200,
+    "category": "Consolas & Controllers",
+    "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=800&q=80",
+    "description": "Mezclador analógico para DJ de 6+2 canales con ecualizador de 4 bandas doble."
+  },
+  {
+    "id": 9,
+    "title": "Audio-Technica ATH-M50x Professional",
+    "price": 160,
+    "category": "Auriculares",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=800&q=80",
+    "description": "Respuesta en frecuencia extendida con graves profundos e independientes."
+  },
+  {
+    "id": 10,
+    "title": "Pioneer DJ DJM-V10 6-Channel",
+    "price": 3400,
+    "category": "Consolas & Controllers",
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=800&q=80",
+    "description": "Consola DJ flagship de procesamiento de audio analógico de 64 bits."
+  }
+]
